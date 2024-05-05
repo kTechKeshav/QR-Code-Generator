@@ -1,5 +1,6 @@
 # QR-Code-Generator
 Project Link ==> https://ktechkeshav.github.io/QR-Code-Generator/
+
 Overview:
 Welcome to the QR Code Generator project! This web application is designed to swiftly convert any text or link into a QR code image, providing a convenient way to share information digitally. Utilizing the power of Document Object Model (DOM) manipulation, this project seamlessly integrates user input with QR code generation, resulting in a user-friendly experience.
 
